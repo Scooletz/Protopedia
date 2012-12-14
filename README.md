@@ -1,7 +1,7 @@
 Protopedia
 ==========
 
-Protopedia is the fastest way you can learn how to use Protobuf-net. The solution covers different topics you should get accustomed to, like:
+PProtopedia provides information which can help you learn how to use Protobuf-net. The solution covers different topics you should get accustomed to, like:
 - versioning
 - derivation of contracts
 - Protobuf-net configuration
