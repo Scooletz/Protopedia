@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Protopedia")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Protopedia provides information which can help you learn how to use Protobuf-net.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Scooletz")]
 [assembly: AssemblyProduct("Protopedia")]
