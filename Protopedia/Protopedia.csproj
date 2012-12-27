@@ -47,6 +47,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Derivation\Messages.cs" />
+    <Compile Include="Derivation\MessagesWithCompositionInsteadOfInheritance.cs" />
+    <Compile Include="Derivation\Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Versioning\Messages.cs" />
     <Compile Include="Versioning\Tests.cs" />
